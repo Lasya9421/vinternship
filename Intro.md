@@ -5,8 +5,6 @@ permalink: /intro/
 order: 1
 ---
 
-# Welcome to Pinternship
-
 ## About the Program
 
 Welcome to **Pinternship** – a comprehensive **Full-Stack Development Internship Program** conducted under the expert guidance of **Prof. Sudarshan Iyengar** at **IIT Ropar's VLED Lab**.
@@ -37,6 +35,8 @@ This program follows a structured, progressive learning pathway covering the com
 ---
 
 ## Program Structure
+
+<img src="../Genie-phases.png" alt="Pinternship phases" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
 The internship program consists of **three required components** that all participants must complete:
 

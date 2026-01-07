@@ -9,10 +9,11 @@ header_pages:
   - Vlogs.md
   - Faq.md
   - hp.md
-  - Genie.md
-  - Support.md
+  - Protocols-Policies.md
   - Git.md
-  - Ejection.md
+  # - Genie.md
+  # - Support.md
+  # - Ejection.md
 
 
 markdown: kramdown

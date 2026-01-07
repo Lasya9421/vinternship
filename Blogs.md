@@ -11,15 +11,15 @@ permalink: /blogs/
   }
 </style>
 
+### Writing a Blog as Part of Your Pinternship Journey with VLED Lab
 
-#### **Writing a Blog as Part of Your Pinternship Journey with VLED Lab**
 <small>*(Activity: Call for Blogs)*</small>
 
 <img src="../Blog_image.jpg" alt="Blog Writing" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
 As part of your internship with the **VLED Lab**, we are opening a **Call for Blogs**—an invitation for you to pause, reflect, and put your journey into words. This activity is not about technical writing skills or perfect grammar. It is about **capturing your experience honestly**, in your own voice, as you lived through this internship.
 
-#### **The Journey**
+### The Journey
 
 This internship has been intentionally designed as a learning journey rather than a checklist. You began with a fully hands-on **MERN stack course delivered through ViBe**, where learning happened through practice and persistence. You then moved into solving **case studies**, which required you to think, reason, and struggle like a developer. For those who complete the case studies, the journey extended further—into **real project work alongside our developers**, where learning became responsibility.
 Along the way, many experiences quietly shaped you. Learning on ViBe, navigating case studies, consistently learning, discussing ideas in breakout rooms, preparing for the viva, receiving feedback, and working in teams—each of these meant something different to each of you. That difference is what makes your story worth telling.
@@ -30,12 +30,13 @@ What we are **not looking for** is a summary of the internship or a step-by-step
 
 What we **are looking for** is your lived experience—your doubts, your growth, your surprises, and your takeaways. Write about what stayed with you after the sessions ended. Write about moments that changed how you think or learn. Write as if you are speaking to someone who has never experienced learning in this way.
 
-#### **Publication**
+### Publication
+
 Your blog should first appear on your LinkedIn profile under the article section. You should tag VLED lab and it's members in your article. If we found the article interesting, inspiring and aligning with the Pinternship. We will select your submitted blog and it will be **reviewed by the VLED Lab team**. You will receive **comments and suggestions to help you improve your writing and clarity**. This is part of the learning process—we see writing as something that evolves through feedback, just like code.
 
 After review the selected blogs will be **published on the Pinternship website under the Blogs section**. Additionally, **selected blogs will be recognised for their** thoughtful reflection, originality, and authenticity.
 
-#### **Submission Instructions**
+### Submission Instructions
 
 You are first required to publish your blog on your LinkedIn under the [Article](https://www.linkedin.com/article/new/){:target="_blank"} section and then you are required to submit your blog as **Markdown file** to **Pinternship** GitHub repository as a new pull request. Your blog will be rendered as a webpage, so ensure it is readable, well-structured, and personal. Follow the folder structure, naming conventions, and file structure provided below. Each blog must be written individually and should reflect your own journey.
 
@@ -60,8 +61,8 @@ Your blog must end with the following structure:
 ```markdown
 ---
 
-Author: [Your Full Name](https://www.linkedin.com/in/your-linkedin-profile/)  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/your-article-link/)
+Author: [Your Full Name](https://www.linkedin.com/in/your-linkedin-profile/){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/your-article-link/){:target="_blank"}
 ```
 
 *Note: If your blog title contains special characters like colons (:), wrap it in double quotes.*
@@ -78,8 +79,8 @@ Your blog content here...
 
 ---
 
-Author: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar/)  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/my-learning-journey-reflections-growth-mohit-kumar/)
+Author: [Mohit Kumar](https://www.linkedin.com/in/mohit-kumar/){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/my-learning-journey-reflections-growth-mohit-kumar/){:target="_blank"}
 ```
 
 <br>

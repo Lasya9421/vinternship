@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-parent: Support
+parent: Help
 permalink: /faq/
 order: 2
 ---
@@ -170,8 +170,7 @@ Follow these steps **only on a laptop or desktop** (mobile is not supported):
 4. Click on the **Join** button.
 5. Locate **#Pinternship** and click **Join**.
 
-**10.2 I am unable to join the Cliq Channel due to the message  
-“Collaboration with different regional external users in Zoho Cliq is disabled”. What should I do?**  
+**8.2 I am unable to join the Cliq Channel due to the message “Collaboration with different regional external users in Zoho Cliq is disabled”. What should I do?**  
 
 If you face this issue, follow the steps below:
 
@@ -185,7 +184,7 @@ If you face this issue, follow the steps below:
 If the issue persists, take a **screenshot or screen recording** clearly showing the error message, briefly explain the problem, and email it to:  
 **pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
-**10.3 I have joined the Cliq Channel but I am unable to message in it. What should I do?**  
+**8.3 I have joined the Cliq Channel but I am unable to message in it. What should I do?**  
 
 This issue is usually caused by restricted collaboration permissions.
 

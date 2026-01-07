@@ -1,18 +1,17 @@
 ---
 layout: page
 title: GitHub Guide
-parent: Support
+parent: Help
 permalink: /git-guide/
 ---
 
-
-### What is Git?
+## What is Git?
 
 Git tracks changes in code. GitHub hosts Git repositories online for collaboration.
 
 ---
 
-### How to setup Git locally?
+## How to Setup Git Locally?
 Download the Git from the official website and install it. For verifying run the below command from terminal.
 
 ```
@@ -28,7 +27,7 @@ git config --global user.email "your github email id"
 
 ---
 
-### How to contribute and send a PR request?
+## How to Contribute and Send a PR Request?
 
 First, you need to fork the [github.com/sudarshansudarshan/pinternship](https://github.com/sudarshansudarshan/pinternship){:target="_blank"} repository. Go to the repository and click the **Fork** button on the repository homepage. 
 

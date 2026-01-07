@@ -11,15 +11,15 @@ permalink: /vlogs/
   }
 </style>
 
+### Creating a Vlog as Part of Your Pinternship Journey with VLED Lab
 
-#### **Creating a Vlog as Part of Your Pinternship Journey with VLED Lab**
 <small>*(Activity: Call for Vlogs)*</small>
 
 <img src="../Vlog_image.png" alt="Vlog Creating" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
 As part of your internship with the **VLED Lab**, we are opening a **Call for Vlogs**—an invitation for you to share your learning journey, technical skills, and project demonstrations through video. This activity is not about having professional equipment or perfect editing. It is about **showing your authentic experience**, sharing what you've learned, and helping others through visual storytelling.
 
-#### **The Journey**
+### The Journey
 
 Video is one of the most powerful ways to teach and motivate. When you show your screen while explaining code, walk through your debugging process, or demonstrate a feature you built—you create something that written words alone cannot capture. Your thought process, your real-time problem-solving, and your authentic voice make learning process easy and impactful.
 
@@ -27,13 +27,13 @@ What we are **not looking for** is highly polished, scripted content that feels 
 
 What we **are looking for** is authentic and your honest experience of what worked and what didn't. Create content that you wish had existed when you were learning.
 
-#### **Publication**
+### Publication
 
 Your vlog should first be uploaded to **your personal YouTube channel**. You should tag or mention **Vicharnashala** channel in your video description. If we find the video high-quality, informative, and aligned with Pinternship, we will select your submitted vlog and it will be **reviewed by the VLED Lab team**.
 
 After review, the selected vlogs will be **embedded on the Pinternship website under the Vlogs section**. Additionally, **featured vlog creators will be recognised** for their contribution to the learning community.
 
-#### **Submission Instructions**
+### Submission Instructions
 
 You are first required to upload your video to **your personal [YouTube](https://www.youtube.com/){:target="_blank"} channel** and then you are required to submit your vlog as a **Markdown file with embedded video** to the **Pinternship** GitHub repository as a new pull request. Your vlog page will be rendered as a webpage, so ensure the markdown file is well-structured and includes proper video embedding. Follow the folder structure, naming conventions, and file structure provided below.
 

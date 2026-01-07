@@ -4,12 +4,10 @@ title: Concept Note
 permalink: /Conceptnote/
 ---
 
+## Pinternship
 
+### Full-Stack Development Internship Program
 
-
-
-# Pinternship
-### Full-Stack Development Internship Program  
 **Under the guidance of Prof. Sudarshan Iyengar**
 
 ---
